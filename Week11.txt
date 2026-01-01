@@ -1,0 +1,8 @@
+If i explain in simple matter, graph clustering is like finding friend groups in a 
+huge social network. We look for nodes that are 'close friends'—meaning 
+they have many connections with each other—and we separate them from other 
+groups that they don't talk to as much. To do this, we basically look for 
+the 'weak links' between communities and cut them to see the different 
+clusters clearly. It is a very useful way to organize messy data, simplify 
+complex networks, and understand how different parts of a system actually 
+work together.
